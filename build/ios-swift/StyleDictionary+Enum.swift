@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 19 Sep 2023 13:23:51 GMT
+// Generated on Tue, 19 Sep 2023 13:44:21 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
-    public static let colorIbaBrand = #00bb80
+    public static let colorIbaBrand = #FF9900
     public static let colorIbaBrandDark = #f39100
     public static let colorIbaBrandLight = #fdcd6e
     public static let colorIbaBrandLighter = #ffefae
