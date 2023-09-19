@@ -4,49 +4,49 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 19 Sep 2023 12:44:12 GMT
+// Generated on Tue, 19 Sep 2023 12:51:25 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryEnum {
-    public static let colorsRootMode1BrandBrand = #f9b11eff
-    public static let colorsRootMode1BrandBrandDark = #f39100ff
-    public static let colorsRootMode1BrandBrandLight = #fdcd6eff
-    public static let colorsRootMode1BrandBrandLighter = #ffefaeff
-    public static let colorsRootMode1BrandBrandNoir10 = #ececedff
-    public static let colorsRootMode1BrandBrandNoir40 = #b1b2b3ff
-    public static let colorsRootMode1BrandBrandNoir5 = #f6f6f6ff
-    public static let colorsRootMode1BrandBrandNoir60 = #868786ff
-    public static let colorsRootMode1ErrorError = #e84362ff
-    public static let colorsRootMode1ErrorErrorDark = #c7305bff
-    public static let colorsRootMode1ErrorErrorDarker = #a72154ff
-    public static let colorsRootMode1ErrorErrorLight = #f1707cff
-    public static let colorsRootMode1ErrorErrorLighter = #fde0d9ff
-    public static let colorsRootMode1InfoInfo = #25aebfff
-    public static let colorsRootMode1InfoInfoDark = #1b8aa4ff
-    public static let colorsRootMode1InfoInfoDarker = #126989ff
-    public static let colorsRootMode1InfoInfoLight = #1ecce1ff
-    public static let colorsRootMode1InfoInfoLighter = #d3fbf3ff
-    public static let colorsRootMode1NeutralNeutralBlank = #ffffffff
-    public static let colorsRootMode1NeutralNeutralGrey1 = #fdfdfdff
-    public static let colorsRootMode1NeutralNeutralGrey2 = #fafafaff
-    public static let colorsRootMode1NeutralNeutralGrey3 = #f1f1f1ff
-    public static let colorsRootMode1NeutralNeutralGrey4 = #d2d2d6ff
-    public static let colorsRootMode1NeutralNeutralGrey5 = #b4b3bcff
-    public static let colorsRootMode1NeutralNeutralGrey6 = #a7a6b1ff
-    public static let colorsRootMode1NeutralNeutralGrey7 = #6f6f79ff
-    public static let colorsRootMode1NeutralNeutralGrey8 = #50505eff
-    public static let colorsRootMode1NeutralNeutralGrey9 = #302f3cff
-    public static let colorsRootMode1NeutralNeutralNoir = #000000ff
-    public static let colorsRootMode1SuccessSuccess = #099735ff
-    public static let colorsRootMode1SuccessSuccessDark = #068138ff
-    public static let colorsRootMode1SuccessSuccessDarker = #046c39ff
-    public static let colorsRootMode1SuccessSuccessLight = #38c055ff
-    public static let colorsRootMode1SuccessSuccessLighter = #cef9caff
-    public static let colorsRootMode1WarningWarning = #ffcd1aff
-    public static let colorsRootMode1WarningWarningDark = #e09f1bff
-    public static let colorsRootMode1WarningWarningDarker = #c78e18ff
-    public static let colorsRootMode1WarningWarningLight = #ffdd53ff
-    public static let colorsRootMode1WarningWarningLighter = #fff9d1ff
+    public static let colorIbaBrand = #f9b11e
+    public static let colorIbaBrandDark = #f39100
+    public static let colorIbaBrandLight = #fdcd6e
+    public static let colorIbaBrandLighter = #ffefae
+    public static let colorIbaBrandNoir10 = #ececed
+    public static let colorIbaBrandNoir40 = #b1b2b3
+    public static let colorIbaBrandNoir5 = #f6f6f6
+    public static let colorIbaBrandNoir60 = #868786
+    public static let colorIbaError = #e84362
+    public static let colorIbaErrorDark = #c7305b
+    public static let colorIbaErrorDarker = #a72154
+    public static let colorIbaErrorLight = #f1707c
+    public static let colorIbaErrorLighter = #fde0d9
+    public static let colorIbaInfo = #25aebf
+    public static let colorIbaInfoDark = #1b8aa4
+    public static let colorIbaInfoDarker = #126989
+    public static let colorIbaInfoLight = #1ecce1
+    public static let colorIbaInfoLighter = #d3fbf3
+    public static let colorIbaNeutralBlank = #ffffff
+    public static let colorIbaNeutralGrey1 = #fdfdfd
+    public static let colorIbaNeutralGrey2 = #fafafa
+    public static let colorIbaNeutralGrey3 = #f1f1f1
+    public static let colorIbaNeutralGrey4 = #d2d2d6
+    public static let colorIbaNeutralGrey5 = #b4b3bc
+    public static let colorIbaNeutralGrey6 = #a7a6b1
+    public static let colorIbaNeutralGrey7 = #6f6f79
+    public static let colorIbaNeutralGrey8 = #50505e
+    public static let colorIbaNeutralGrey9 = #302f3c
+    public static let colorIbaNeutralNoir = #000000
+    public static let colorIbaSuccess = #099735
+    public static let colorIbaSuccessDark = #068138
+    public static let colorIbaSuccessDarker = #046c39
+    public static let colorIbaSuccessLight = #38c055
+    public static let colorIbaSuccessLighter = #cef9ca
+    public static let colorIbaWarning = #ffcd1a
+    public static let colorIbaWarningDark = #e09f1b
+    public static let colorIbaWarningDarker = #c78e18
+    public static let colorIbaWarningLight = #ffdd53
+    public static let colorIbaWarningLighter = #fff9d1
 }
