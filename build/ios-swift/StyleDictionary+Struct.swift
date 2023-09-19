@@ -4,13 +4,13 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 19 Sep 2023 13:18:56 GMT
+// Generated on Tue, 19 Sep 2023 13:23:51 GMT
 
 
 import UIKit
 
 internal struct StyleDictionaryStruct {
-    internal static let colorIbaBrand = #f9b11e
+    internal static let colorIbaBrand = #00bb80
     internal static let colorIbaBrandDark = #f39100
     internal static let colorIbaBrandLight = #fdcd6e
     internal static let colorIbaBrandLighter = #ffefae
